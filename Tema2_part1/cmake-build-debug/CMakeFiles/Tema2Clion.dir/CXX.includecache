@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Facultate/an 3 sem 1/CSSO/Tema2Clion/Part1.cpp
+iostream
+-
+Windows.h
+-
+Tlhelp32.h
+-
+

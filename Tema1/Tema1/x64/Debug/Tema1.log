@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\facultate\an 3 sem 1\csso\tema1\tema1\source.cpp(51): warning C4307: '+': integral constant overflow
+d:\facultate\an 3 sem 1\csso\tema1\tema1\source.cpp(53): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'DWORD'
+  d:\facultate\an 3 sem 1\csso\tema1\tema1\source.cpp(53): note: consider using '%ld' in the format string
+  Tema1.vcxproj -> D:\Facultate\an 3 sem 1\CSSO\Tema1\x64\Debug\Tema1.exe
+  Tema1.vcxproj -> D:\Facultate\an 3 sem 1\CSSO\Tema1\x64\Debug\Tema1.pdb (Partial PDB)

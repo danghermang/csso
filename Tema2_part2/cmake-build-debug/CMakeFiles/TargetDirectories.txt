@@ -1,0 +1,3 @@
+D:/Facultate/an 3 sem 1/CSSO/Tema2_part2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/an 3 sem 1/CSSO/Tema2_part2/cmake-build-debug/CMakeFiles/Tema2_part2.dir
+D:/Facultate/an 3 sem 1/CSSO/Tema2_part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\facultate\an 3 sem 1\csso\lab1\lab1\source.cpp(68): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'LONGLONG'
+  d:\facultate\an 3 sem 1\csso\lab1\lab1\source.cpp(68): note: consider using '%lld' in the format string
+  d:\facultate\an 3 sem 1\csso\lab1\lab1\source.cpp(68): note: consider using '%I64d' in the format string
+  Lab1.vcxproj -> D:\Facultate\an 3 sem 1\CSSO\Lab1\Debug\Lab1.exe
+  Lab1.vcxproj -> D:\Facultate\an 3 sem 1\CSSO\Lab1\Debug\Lab1.pdb (Partial PDB)
